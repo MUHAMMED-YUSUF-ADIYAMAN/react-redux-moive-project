@@ -1,0 +1,21 @@
+.bg-img{
+    backgroundRepeat:" no-repeat" ;
+     backgroundSize: "cover";
+}
+
+.bg-img::before{
+     /* ,filter: "grayscale(100%)" */  
+     
+     opacity: 0.2;
+}
+
+.bg-img{
+    backgroundRepeat:" no-repeat" ;
+     backgroundSize: "cover";
+}
+
+.bg-img::before{
+     /* ,filter: "grayscale(100%)" */  
+     
+     opacity: 0.2;
+}

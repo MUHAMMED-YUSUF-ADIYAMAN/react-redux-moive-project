@@ -1,9 +1,14 @@
 import React from 'react'
+import NavBar from "../components/NavBar";
+import MainMovie from "../components/MainMovie";
 
 const Movie = () => {
   return (
-    <div>movie</div>
+    <>
+    <NavBar />
+    <MainMovie/>
+    </>
   )
 }
 
-export default movie
+export default Movie

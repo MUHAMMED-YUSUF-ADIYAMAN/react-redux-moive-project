@@ -6,4 +6,4 @@ const Actor = () => {
   )
 }
 
-export default actor
+export default Actor
